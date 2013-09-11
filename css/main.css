@@ -206,6 +206,7 @@ a:hover {
 	font-weight: 500;
 	line-height: 1;
 	color: rgb(215,26,33);
+	text-shadow: 0 2px 1px rgba(0,0,0,0.5);
 }
 
 .cbp-so-section p {
@@ -295,6 +296,7 @@ p {
 	background-color: rgba(0,50,77,.5);
 	padding: 10px;
 	color: #FCE4A8;
+	  text-shadow: 0 2px 0 rgba(255,255,255, 0.9);
 }
 
 
